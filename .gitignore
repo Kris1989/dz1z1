@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+tmp/
+*_old
+*_backup
+Thumbs.db
+*.DS_Store
+.idea/
